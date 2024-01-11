@@ -4,7 +4,7 @@
 
   매일매일 조금씩 꾸준히 나아가는 개발자
   <div align = "center">
-  <img src="./ryan.gif" width = 70>
+  <img src="./ryan.gif" width = 170>
   </div>
 
 
